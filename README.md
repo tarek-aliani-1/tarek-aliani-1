@@ -6,9 +6,9 @@
 
 - 💬 Ask me about **Trices and Tips for Pc and android**
 
-- 📫 How to reach me **soolkinglacanon16@gmail.com**
+- 📫 How to reach me **t.me/Alpha_01_2024**
 
-- ⚡ Fun fact **I think I'm funny in my work, But with result :)**
+- ⚡ Fun fact **I think I'm funny in my work, But with result BTW :)**
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
