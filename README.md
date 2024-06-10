@@ -2,7 +2,7 @@
 <h3 align="center">Helping Tricks developer</h3>
 
 
-- 🐍 currently learning Python
+- currently learning 🐍
 
 - 💬 Ask me about **Tips for OS**
 
