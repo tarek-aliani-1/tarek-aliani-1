@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Tips for OS**
 
-- 📫 My telegram -> **t.me/Alpha_01_2024**
+- 📫 My telegram -> **t.me/ALPHA_00000001**
 
 - ⚡ Fun fact **I think I'm funny in my work, But with result BTW :)**
 
