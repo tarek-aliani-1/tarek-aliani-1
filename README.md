@@ -2,7 +2,7 @@
 <h3 align="center">Helping Tricks developer</h3>
 
 
-- 🌱 I’m currently learning Python**
+- 🐍 currently learning Python
 
 - 💬 Ask me about **Trices and Tips for Pc and android**
 
