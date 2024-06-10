@@ -8,7 +8,7 @@
 
 - My 📫 -> **https://t.me/ALPHA_00000001**
 
-- ⚡ Fun fact **I think I'm funny in my work, But with result BTW :)**
+- ⚡ Fun fact : **I can't get funny in flow**
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
