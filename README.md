@@ -4,7 +4,7 @@
 
 - 🐍 currently learning Python
 
-- 💬 Ask me about **Tips for Pc and android**
+- 💬 Ask me about **Tips for OS**
 
 - 📫 How to reach me **t.me/Alpha_01_2024**
 
