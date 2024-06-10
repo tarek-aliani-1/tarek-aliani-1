@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarek</h1>
-<h3 align="center">developer (with Darkside tricks) for public Helping</h3>
+<h3 align="center">developer (with Funny tricks) for public Helping</h3>
 
 
 - 🌱 I’m currently learning **Python**
