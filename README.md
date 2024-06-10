@@ -4,7 +4,7 @@
 
 - currently learning 🐍
 
-- 💬 Ask me about **Tips for OS**
+- 💬 Ask me for **Tips for OS**
 
 - My 📫 -> **https://t.me/ALPHA_00000001**
 
