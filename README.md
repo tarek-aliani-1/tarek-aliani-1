@@ -1,5 +1,5 @@
 <h1 align="center">Ohayo Niggers, I'm Tarek</h1>
-<h3 align="center">Helping Tricks developer</h3>
+<h3 align="center">Tricks developer</h3>
 
 
 - currently learning 🐍
