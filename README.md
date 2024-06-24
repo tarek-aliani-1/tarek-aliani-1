@@ -1,10 +1,10 @@
 <h1 align="center">Hello, I'm Tarek</h1>
-<h3 align="center">Tricks developer</h3>
+<h3 align="center">Tips & Tricks developer</h3>
 
 
 - 🐍 Currently learning
 
-- 💬 Ask me for **OS Tips**
+- 💬 Ask me for **Operating Systems**
 
 - 😂 Fun fact : **I can't get funny in flow**
 
