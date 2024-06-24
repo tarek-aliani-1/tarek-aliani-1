@@ -6,7 +6,7 @@
 
 - 💬 Ask me for **Tips for OS**
 
-- My 📫 -> **https://t.me/ALPHA_00000001**
+- My 📫 -> https://t.me/ALPHA_00000001
 
 - ⚡ Fun fact : **I can't get funny in flow**
 
