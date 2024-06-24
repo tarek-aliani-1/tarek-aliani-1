@@ -1,4 +1,4 @@
-<h1 align="center">Ohayo Niggers, I'm Tarek</h1>
+<h1 align="center">Hello, I'm Tarek</h1>
 <h3 align="center">Tricks developer</h3>
 
 
