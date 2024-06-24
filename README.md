@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me :</h3>
 <p style="display: flex; justify-content: space-between;">
-  <a href="https://www.t.me/ALPHA_00000001" target="blank">
+  <a href="https://youtube.com/@alphasecurity-23" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/youtube.svg" alt="shoyotobyo" height="30" width="40" />
   </a>
   <a href="https://www.t.me/ALPHA_00000001" target="blank">
