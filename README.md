@@ -4,7 +4,7 @@
 
 - currently learning 🐍
 
-- 💬 Ask me for **Tips for OS**
+- 💬 Ask me for **OS Tips**
 
 - ⚡ Fun fact : **I can't get funny in flow**
 
