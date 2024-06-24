@@ -2,11 +2,11 @@
 <h3 align="center">Tricks developer</h3>
 
 
-- currently learning 🐍
+- 🐍 Currently learning
 
 - 💬 Ask me for **OS Tips**
 
-- ⚡ Fun fact : **I can't get funny in flow**
+- 😂 Fun fact : **I can't get funny in flow**
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
