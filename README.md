@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋, I'm Tarek</h1>
+<h1 align="center">Ohayo Niggers, I'm Tarek</h1>
 <h3 align="center">Helping Tricks developer</h3>
 
 
 - currently learning 🐍
 
 - 💬 Ask me for **Tips for OS**
-
-- My 📫 -> https://t.me/ALPHA_00000001
 
 - ⚡ Fun fact : **I can't get funny in flow**
 
