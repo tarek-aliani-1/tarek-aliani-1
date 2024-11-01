@@ -6,7 +6,7 @@
 
 - 🐍 Currently learning Java & Adv-C
 
-- 💬 Ask me for **Everything About OS**
+- 💬 Ask me for **OS Tips & Tricks**
 
 - 😂 Fun fact : **can't get funny in flow**
 
