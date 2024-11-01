@@ -4,11 +4,11 @@
 <h3 align="center">Tips & Tricks developer</h3>
 
 
-- 🐍 Currently learning
+- 🐍 Currently learning Java & Adv-C
 
-- 💬 Ask me for **Operating Systems**
+- 💬 Ask me for **Everything About OS**
 
-- 😂 Fun fact : **I can't get funny in flow**
+- 😂 Fun fact : **can't get funny in flow**
 
 <h3 align="left">Connect with me :</h3>
 <p style="display: flex; justify-content: space-between;">
