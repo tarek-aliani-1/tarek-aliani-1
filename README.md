@@ -19,7 +19,7 @@
   <a href="https://www.t.me/ALPHA_00000001" target="blank">
     <img src="https://raw.githubusercontent.com/kamlendras/svg/7ca21d498cace8c7c7a58d330b22f06853d21a8c/telegram.svg" alt="shoyotobyo" height="30" width="40" />
   </a>
-</p><h3 align="left">We Help People On Ko-fi So :</h3>
+</p><h3 align="left">Donate Me On Ko-fi :</h3>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T310VS8E)
 
