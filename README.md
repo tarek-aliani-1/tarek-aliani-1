@@ -28,7 +28,7 @@
 
 ## 🚀 Languages and Tools:
 <div align="center">
-    <img src="" />
+    <img src="https://skillicons.dev/icons?i=" />
     <br>
 </div>
 
