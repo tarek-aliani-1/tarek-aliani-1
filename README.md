@@ -64,12 +64,12 @@
 
 ## 💜 Views and Followers:
 
-<a href="https://github.com/NehalElsamoly/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=NehalElsamoly">
+<a href="https://github.com/tarek-aliani-1/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=tarek-aliani-1">
 </a>
-<a href="https://github.com/NehalElsamoly?tab=followers"><img src="https://img.shields.io/github/followers/NehalElsamoly?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/tarek-aliani-1?tab=followers"><img src="https://img.shields.io/github/followers/tarek-aliani-1?label=Followers&style=social" alt="GitHub Badge"></a>
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+🥰;+Pass+me+a+message+on+Linkedin+📮!;I'm+Long+Life+Learner+🧑‍🎓">
 </h3>
 
 
