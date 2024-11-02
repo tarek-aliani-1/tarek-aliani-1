@@ -68,6 +68,9 @@
 </a>
 <a href="https://github.com/tarek-aliani-1?tab=followers"><img src="https://img.shields.io/github/followers/tarek-aliani-1?label=Followers&style=social" alt="GitHub Badge"></a>
 
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarek-aliani-1&theme=tokyonight)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tarek-aliani-1&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarek-aliani-1&theme=tokyonight)
 
 
 <!-- Break Line -->
@@ -78,10 +81,6 @@
 <br>
 <!---------------->
 
-
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tarek-aliani-1&theme=tokyonight)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tarek-aliani-1&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
-![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tarek-aliani-1&theme=tokyonight)
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+🥰;+Pass+me+a+message+on+Linkedin+📮!;I'm+Long+Life+Learner+🧑‍🎓">
