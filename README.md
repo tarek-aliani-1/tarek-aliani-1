@@ -14,11 +14,8 @@
 
 
 ## 🙋‍♂️ About Me:
-
 - 🐍 Currently learning Java & Adv-C
-
 - 💬 Ask me for **OS Tips & Tricks**
-
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/tarek-aliani-1?tab=repositories)**
 
 - 😂 Fun fact : **can't get funny in flow**
