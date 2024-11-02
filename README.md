@@ -1,8 +1,8 @@
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Alpha.Dev!+%F0%9F%98%8E;&color=FF0000" />
 </div>
-<h3 align="center">Tips & Tricks developer</h3>
 
+## 🙋‍♂️ About Me:
 
 - 🐍 Currently learning Java & Adv-C
 
@@ -21,12 +21,22 @@
   <a href="https://www.t.me/ALPHA_00000001" target="blank">
     <img src="https://raw.githubusercontent.com/kamlendras/svg/7ca21d498cace8c7c7a58d330b22f06853d21a8c/telegram.svg" alt="shoyotobyo" height="30" width="40" />
   </a>
-</p><h3 align="left">Donate Me On Ko-fi :</h3>
+  
+## ☕ Donate Me:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T310VS8E)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> </p>
+## 🚀 Languages and Tools:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,postgresql,c,oop,python" />
+    <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman" /><br>
+</div>
+
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarek-aliani-1&show_icons=true&locale=en" alt="tarek-aliani-1" /></p>
 
