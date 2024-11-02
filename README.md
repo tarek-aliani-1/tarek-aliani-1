@@ -31,9 +31,9 @@
 
 ## 🚀 Languages and Tools:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=" />
-    <img src="https://skillicons.dev/icons?i=" />
-    <img src="https://skillicons.dev/icons?i=" />
+    <img src="https://skillicons.dev/icons?i=java" />
+    <img src="https://skillicons.dev/icons?i=cpp" />
+    <img src="https://skillicons.dev/icons?i=c" />
 </div>
 
 
