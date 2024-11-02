@@ -53,18 +53,20 @@
 <br>
 
 
-## 🤝 Connect With Me:
+##  Connect With Me:
 <div align="center">
-    <a href="" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-    </a>
-  <a href="alphafreecs23@gmail.com">
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="alphafreecs23@gmail.com">   
+
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-        <a href="">
-    <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" />
+  <a href="YOUR_PORTFOLIO_WEBSITE_URL">  <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" />
   </a>
-    [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T310VS8E)
+  <a href="https://ko-fi.com/T6T310VS8E">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" />
+  </a>
 </div>
 
 
