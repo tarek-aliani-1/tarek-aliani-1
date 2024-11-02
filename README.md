@@ -64,6 +64,7 @@
         <a href="">
     <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" />
   </a>
+    [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T310VS8E)
 </div>
 
 
