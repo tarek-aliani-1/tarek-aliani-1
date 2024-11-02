@@ -2,13 +2,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ALPHA.DEV!+😎;&textColor=332E28" />
 </div>
 
-<br>
 
+<br>
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
-
 <br>
+
 
 ## 🙋‍♂️ About Me:
 
@@ -44,62 +44,41 @@
 <br>
 
 ## ☕ Donate Me:
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T310VS8E)
 
-<br>
-
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-
-<br>
-
-<h3 align="left">Connect with me :</h3>
-<p style="display: flex; justify-content: space-between;">
-  <a href="https://youtube.com/@alphasecurity-23" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/youtube.svg" alt="shoyotobyo" height="30" width="40" />
-  </a>
-  
-  <a href="https://www.t.me/ALPHA_00000001" target="blank">
-    <img src="https://raw.githubusercontent.com/kamlendras/svg/7ca21d498cace8c7c7a58d330b22f06853d21a8c/telegram.svg" alt="shoyotobyo" height="30" width="40" />
-  </a>
 
 <br>
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 <br>
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
 
 ## 🤝 Connect With Me:
-
 <div align="center">
-    <a href="https://www.linkedin.com/in/nehal-elsamoly-5a6977202/" target="_blank">
+    <a href="" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
-  <a href="mailto:nehalelsamoly123@gmail.com">
+  <a href="alphafreecs23@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-        <a href="https://myportofolio-e4d89.web.app/">
+        <a href="">
     <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" />
   </a>
-    <a href="https://youtube.com/@alphasecurity-23">
-    <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=red" />
-  </a>
-   
 </div>
+
 
 <br>
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
-
 <br>
 
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
 
 ## 💜 Views and Followers:
 
