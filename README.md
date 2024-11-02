@@ -1,5 +1,6 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+My+Page!+%F0%9F%91%8B;+Let%27s+Have+Fun!+%F0%9F%8E%8A;&color=00FF00" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ALPHA.DEV!+😎;&textColor=332E28" />
+
 </div>
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
