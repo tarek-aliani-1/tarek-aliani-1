@@ -29,8 +29,8 @@
 ## 🚀 Languages and Tools:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,kotlin,postgresql,c,anaconda,python,arch,dart,debian" />
-    <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,bootstrap,codepen,css," />
-    <img src="https://skillicons.dev/icons?i=arduino,aws,bash,blender,cpp," />
+    <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,bootstrap,codepen" />
+    <img src="https://skillicons.dev/icons?i=arduino,aws,bash,blender,cpp,devto," />
     <br>
 </div>
 
