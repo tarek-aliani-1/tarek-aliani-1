@@ -25,17 +25,21 @@
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
+
+<br>
+
+## 🚀 Languages and Tools:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=" />
+    <img src="https://skillicons.dev/icons?i=" />
+    <br>
+</div>
+
 <br>
   
 ## ☕ Donate Me:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T310VS8E)
-
-## 🚀 Languages and Tools:
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=" />
-    <br>
-</div>
 
 
 <h3 align="left">Connect with me :</h3>
