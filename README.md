@@ -3,11 +3,14 @@
 </div>
 
 
+<!-- Break Line -->
 <br>
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 <br>
+<!---------------->
+
 
 
 ## 🙋‍♂️ About Me:
@@ -20,13 +23,15 @@
 
 - 😂 Fun fact : **can't get funny in flow**
 
-<br>
 
+<!-- Break Line -->
+<br>
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
-
 <br>
+<!---------------->
+
 
 ## 🚀 Languages and Tools:
 <div align="center">
@@ -35,18 +40,14 @@
     <br>
 </div>
 
-<br>
 
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-
-
+<!-- Break Line -->
 <br>
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 <br>
+<!---------------->
 
 
 ##  Connect With Me:
@@ -56,12 +57,13 @@
 </div>
 
 
+<!-- Break Line -->
 <br>
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 <br>
-
+<!---------------->
 
 ## 💜 Views and Followers:
 
@@ -73,8 +75,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner">
 </h3>
 
-<br/>
 
+<!-- Break Line -->
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+<!---------------->
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarek-aliani-1&show_icons=true&locale=en" alt="tarek-aliani-1" /></p>
