@@ -83,8 +83,8 @@
         <a href="https://myportofolio-e4d89.web.app/">
     <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" />
   </a>
-    <a href="https://www.youtube.com/channel/UC7ZV_0avpuVoESi7Ku43T5w">
-    <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />
+    <a href="https://youtube.com/@alphasecurity-23">
+    <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=red" />
   </a>
    
 </div>
