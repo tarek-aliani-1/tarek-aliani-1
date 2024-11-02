@@ -28,7 +28,7 @@
 
 ## 🚀 Languages and Tools:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,postgresql,c,oop,python" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,postgresql,c,kmp,python" />
     <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman" /><br>
 </div>
 
