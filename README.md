@@ -1,11 +1,11 @@
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ALPHA.DEV!+😎;&textColor=332E28" />
-
+<br>
 </div>
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
-
+<br>
 ## 🙋‍♂️ About Me:
 
 - 🐍 Currently learning Java & Adv-C
