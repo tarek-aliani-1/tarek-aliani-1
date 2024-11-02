@@ -34,7 +34,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=" />
     <img src="https://skillicons.dev/icons?i=" />
-    <br>
+    <img src="https://skillicons.dev/icons?i=" />
 </div>
 
 
