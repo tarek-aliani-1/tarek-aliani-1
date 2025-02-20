@@ -17,7 +17,7 @@
 - 🐍 Currently learning Java & Adv-C
 - 💬 Ask me for **OS Tips & Tricks**
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/tarek-aliani-1?tab=repositories)**
-- 😂 Fun fact : **I Go Crazy In My Flow**
+- 😂 Fun fact : **I Go Wild In My Flow**
 
 
 <!-- Break Line -->
